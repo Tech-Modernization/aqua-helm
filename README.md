@@ -1,3 +1,9 @@
+# Update Helm repository
+```
+helm repo index . --url https://raw.githubusercontent.com/contino/aqua-helm/${BRANCH}
+```
+
+---
 <img src="https://avatars3.githubusercontent.com/u/12783832?s=200&v=4" height="100" width="100" /><img src="https://avatars3.githubusercontent.com/u/15859888?s=200&v=4" width="100" height="100"/>
 
 # Aqua Security Helm Charts

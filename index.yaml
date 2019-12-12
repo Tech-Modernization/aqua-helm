@@ -3,31 +3,31 @@ entries:
   enforcer:
   - apiVersion: v1
     appVersion: "4.5"
-    created: "2019-12-12T12:05:16.748596Z"
+    created: "2019-12-12T12:21:20.787025Z"
     description: A Helm chart for the Aqua Enforcer
     digest: 6195b2c7459fbcf63a007d4797a79561b24d4a6b1f27136ccf56a2da45c0e560
     name: enforcer
     urls:
-    - https://raw.githubusercontent.com/contino/aqua-helm/4.5/enforcer/enforcer-4.5.0.tgz
+    - https://raw.githubusercontent.com/contino/aqua-helm/4.5.0/enforcer/enforcer-4.5.0.tgz
     version: 4.5.0
   scanner:
   - apiVersion: v1
     appVersion: "4.5"
-    created: "2019-12-12T12:05:16.748967Z"
+    created: "2019-12-12T12:21:20.787515Z"
     description: A Helm chart for the aqua scanner cli component
     digest: 2a2c949ac174ddd214b1368e85cadd1e39bdc715cc7c1286d66862ae8961a19e
     name: scanner
     urls:
-    - https://raw.githubusercontent.com/contino/aqua-helm/4.5/scanner/scanner-4.5.0.tgz
+    - https://raw.githubusercontent.com/contino/aqua-helm/4.5.0/scanner/scanner-4.5.0.tgz
     version: 4.5.0
   server:
   - apiVersion: v1
     appVersion: "4.5"
-    created: "2019-12-12T12:05:16.749551Z"
+    created: "2019-12-12T12:21:20.788783Z"
     description: A Helm chart for the Aqua Console Componants
     digest: 648ea0a9c4bcfcccc39f66460a3686c4e1861c09919039648b7b7c0fca25fa08
     name: server
     urls:
-    - https://raw.githubusercontent.com/contino/aqua-helm/4.5/server/server-4.5.0.tgz
+    - https://raw.githubusercontent.com/contino/aqua-helm/4.5.0/server/server-4.5.0.tgz
     version: 4.5.0
-generated: "2019-12-12T12:05:16.74799Z"
+generated: "2019-12-12T12:21:20.786308Z"
